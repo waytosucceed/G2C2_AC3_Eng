@@ -1,0 +1,122 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What do you call someone who takes care of animals and grows food on a farm?",
+    "options": ["Chef", "Doctor", "Farmer", "Teacher"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which animal says \"oink\"?",
+    "options": ["Cow", "Pig", "Sheep", "Dog"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Fill in the blank: A _____ is someone who cooks food as their job.",
+    "options": ["Doctor", "Chef"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "A stethoscope is used to look at teeth. (True / False)",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What do you call a baby dog?",
+    "options": ["Kitten", "Calf", "Puppy", "Lamb"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which animal has a trunk?",
+    "options": ["Giraffe", "Elephant", "Lion", "Zebra"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "What do you call a person who teaches in a school?",
+    "options": ["Doctor", "Chef", "Farmer", "Teacher"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Fill in the blank: A fox has a bushy _____.",
+    "options": ["Tail", "Trunk"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Cats can see in the dark. (True / False)",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What do you call it when you run after something?",
+    "options": ["Chase", "Catch", "Throw", "Hide"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What do you call a sweet treat that's often colourful?",
+    "options": ["Vegetable", "Fruit", "Candy", "Meat"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Fill in the blank: A _____ keeps people safe and wears a badge.",
+    "options": ["Dentist", "Police officer"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "A tractor is a small toy car. (True / False)",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What do you call it when food tastes really good?",
+    "options": ["Yucky", "Tasty", "Smelly", "Sour"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which word means to shine with little flashes of light?",
+    "options": ["Wobble", "Giggle", "Sparkle", "Squish"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What do you call a happy, small laugh?",
+    "options": ["Cry", "Yell", "Giggle", "Frown"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Fill in the blank: To _____ means to press something soft.",
+    "options": ["Squish", "Yell"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What do you call a floating ball of air wrapped in soap?",
+    "options": ["Balloon", "Bubble", "Ball", "Cloud"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "What do you call the sound of eating something hard and crispy?",
+    "options": ["Crunch", "Whisper", "Slurp"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Fill in the blank: To _____ means to spring up when you hit the ground.",
+    "options": ["Bounce", "Crisp"],
+    "correct": 0
+  }
+]
